@@ -1,7 +1,7 @@
 
 body {
-  background-color: #240F52; 
-  background-image: linear-gradient(0deg, #36295e, #1c1045);
+  /*background-color: #132336; */
+  background-image: linear-gradient(0deg, #28335e, #1d2029);
   height: 100%;
   overflow: hidden;
   display:flex;
@@ -21,7 +21,7 @@ body {
   left: calc(21rem);
   height: 45rem;
   width: 45rem;
-  background-image: linear-gradient(135deg, #FEED07 0%, #FE6A50 5%, #ED00AA 15%, #2FE3FE 50%, #8900FF 100%);
+  background-image: linear-gradient(135deg, #FEED07 0%, #299440 5%, #2973a5 15%, #98b2d8 50%, #1d1d4d 100%);
   border-radius: 50%;
   
   /*  Rotate  */
@@ -35,7 +35,7 @@ body {
   left: calc(32rem - 140px);
   height: 650px;
   width: 650px;
-  background-image: linear-gradient(0deg, #36295e, #1c1045);
+  background-image: linear-gradient(0deg, #333b5e, #132336);
   border-radius: 50%;
 }
 
@@ -77,5 +77,5 @@ span#footer img {
 }
 
 .checked {
-  color: orange;
+  color: rgb(255, 181, 43);
 }
